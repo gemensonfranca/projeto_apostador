@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello Word friends!";
+echo "Hello Word friends! versão 2";
 
 ?>
